@@ -1,0 +1,32 @@
+Email Spam Checker
+count_vectorizer_spam.sav
+spam_model.sav
+
+
+Sentiment Analysis
+Naive Bayes
+In statistics, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naive) independence assumptions between the features. They are among the simplest Bayesian network models, but coupled with kernel density estimation, they can achieve high accuracy levels
+SVC
+A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems. After giving an SVM model sets of labeled training data for each category, they're able to categorize new text.
+Logistic Regression
+Logistic regression estimates the probability of an event occurring, such as voted or didn't vote, based on a given dataset of independent variables. Since the outcome is a probability, the dependent variable is bounded between 0 and 1.
+
+WordCloud
+nlp.create_wordcloud()
+
+N-Gram Analysis
+plot_ngrams()
+
+Parts of Speech Analysis
+nlp.pos_tagger()
+
+Named Entity Recognition
+en_core_web_sm.load()
+
+Text Summarizer
+GenSim
+Gensim is an open-source library for unsupervised topic modeling, document indexing, retrieval by similarity, and other natural language processing functionalities, using modern statistical machine learning. Gensim is implemented in Python and Cython for performance
+TextRank
+TextRank – is a graph-based ranking model for text processing which can be used in order to find the most relevant sentences in text and also to find keywords.
+LexRank
+LexRank is an unsupervised approach to text summarization based on graph-based centrality scoring of sentences. The main idea is that sentences "recommend" other similar sentences to the reader. Thus, if one sentence is very similar to many others, it will likely be a sentence of great importance.
